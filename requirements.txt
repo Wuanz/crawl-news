@@ -1,0 +1,3 @@
+Scrapy
+scrapy_fake_useragent
+scrapy-playwright
